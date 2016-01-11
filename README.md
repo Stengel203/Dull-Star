@@ -12,7 +12,13 @@ It can grow as big as a small moon (depending on the choices the player makes) a
 ### Shipyard
 The shipyard is the area where new spacecraft are built. Examples of these spacecraft are typical fighters, miners and eventually bigger ships like destroyers or dreadnaughts. Higher levels of shipyards will increase production time and allow you to create newer spacecraft.
 
+### Hangar
 
+### Living Quarters
+
+### Research Lab
+
+### 
 
 
 
