@@ -8,7 +8,7 @@ using DullStarData.DAL;
 
 namespace DullStarData.Repositories
 {
-    public class UserRepository
+    public class UserRepository: IUserRepository
     {
         private DullStarDevEntities _context;
 
@@ -22,7 +22,7 @@ namespace DullStarData.Repositories
             _context = context;
         }
 
-        public void createUser(string Id, string UserName, DateTime BirthDate)
+        public void CreateUser(string Id, string UserName, DateTime BirthDate)
         {
             Users user = new Users
             {
@@ -31,7 +31,18 @@ namespace DullStarData.Repositories
                 BirthDate = BirthDate
             };
             _context.Users.Add(user);
-            _context.SaveChanges();
+        }
+
+        public void SaveChanges()
+        {
+            try
+            {
+                _context.SaveChanges();
+            }
+            catch
+            {
+                throw;
+            }
         }
     }
 }

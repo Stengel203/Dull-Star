@@ -4,7 +4,7 @@
   <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
     <!-- Diagram content (shape and connector positions) -->
     <edmx:Diagrams>
-      <Diagram DiagramId="38cea9dfd56f4f27be70f57cc89cc595" Name="Diagram1">
+      <Diagram DiagramId="82aac2bc5dae430b8ae88e2f2b8e93d9" Name="Diagram1">
         <EntityTypeShape EntityType="DullStarDevModel.Users" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
       </Diagram>
     </edmx:Diagrams>
