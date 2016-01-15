@@ -33,7 +33,7 @@ The mining facility is the hub of your harvesting units. The higher your mining 
 The Storage room does exactly what it says: offer more storage space for your minerals/ores.
 
 ### EXTRA: Gambling area
-The gambling area produces money which you can use to purchase new spacecraft on the black market. The higher your population, the more money you create. Being in the neighbourhood of other friendly ships will attract a portion of their population and will produce extra gold.
+The gambling area produces money which you can use to purchase new spacecraft and resources on the black market. The higher your population, the more money you create. Being in the neighbourhood of other friendly ships will attract a portion of their population and will produce extra gold.
 
 ## Military
 Your military troops can operate in two ways. First, they can be sent from your space station to targets of choice. The second way is creating a fleet of spaceships which act as a second (or third, etc) base where they can operate from. This will leave your base fairly undefended though.
