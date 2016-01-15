@@ -18,7 +18,7 @@ The shipyard is the area where new spacecraft are built. Examples of these space
 The hangar is the location your military spacecraft are stored in. The higher your hangar level, the more spacecraft you can have.
 
 ### Living Quarters
-The living quarters houses your pilots and employees. (Population is the source of money.) You also need enough population to build new facilities, train new pilots (= make new spacecraft), ... .
+The living quarters houses your pilots and employees. You also need enough population to build new facilities, train new pilots (= make new spacecraft), ... .
 
 ### Research Lab
 The research lab increases your research rate. You unlock new research possibilities as you level your research lab.
